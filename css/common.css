@@ -1,0 +1,25 @@
+/*Aqui todo es de Joyce xDU atte. Sharon... meno el */
+.may-j{
+	text-transform: uppercase;
+}
+.op-j{
+	background-color: rgba(0, 0, 0, 0.5);
+}
+.lineal-j{
+    display: inline-block;
+}
+.mar-j{
+	margin: 20px
+}
+.puntos-j{
+	border-bottom:dotted #ccc 1px;
+}
+.ml-j{
+	margin: 0px 20px;
+}
+.bgb-j{
+	background-color: #222;
+}
+*{
+	font-family: 'Open Sans';
+}
